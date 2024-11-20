@@ -11,7 +11,7 @@ Atualmente estou buscando me aprimorar nos assuntos de computação em nuvem e c
   <img align="center" alt="javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-   <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
    <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
@@ -27,12 +27,10 @@ Atualmente estou buscando me aprimorar nos assuntos de computação em nuvem e c
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=brunameinberg&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=dracula" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunameinberg&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=dracula" alt="Most used Languages" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunameinberg&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=dracula" alt="Most used Languages" height="200"/>
 
 </div>
 
-<div align="center">
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunameinberg&count_private=true&theme=dracula"  height="175"/>
