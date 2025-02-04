@@ -3,14 +3,13 @@
 Atualmente estou buscando me aprimorar nos assuntos de computação em nuvem e cybersegurança.
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="k8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
+  <img align="center" alt="helm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg">
    <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
    <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
